@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maruf hossain anon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruf hossain anon" height="30" width="40" /></a>
-<a href="https://fb.com/md maruf hossain anon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md maruf hossain anon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md maruf hossain anon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md maruf hossain anon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruf hossain anon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mdmaruf.hossin.336?mibextid=zLoPMf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md maruf hossain anon" height="30" width="40" /></a>
+<a href="https://leetcode.com/Marufhossainanon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md maruf hossain anon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
