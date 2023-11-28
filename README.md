@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mhanon1011@gmail.com**
 
-- ⚡ Fun fact **I am friendly🙂**
+- ⚡  **I am friendly🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
